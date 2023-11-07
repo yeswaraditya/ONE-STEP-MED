@@ -1,0 +1,158 @@
+
+
+        body {
+
+            font-family: 'Arial', sans-serif;
+
+            margin: 0;
+
+            padding: 0;
+
+            background-image: url('https://static.vecteezy.com/system/resources/thumbnails/004/449/845/small/abstract-geometric-medical-cross-shape-medicine-and-science-concept-background-medicine-medical-health-cross-healthcare-decoration-for-flyers-poster-web-banner-and-card-illustration-vector.jpg');
+
+            background-repeat: no-repeat;
+
+            background-attachment: fixed;  
+
+            background-size: cover;
+
+            color: #333;
+
+        }
+
+ 
+
+        header {
+
+            color: #053B50;
+
+            padding: 20px;
+
+            text-align: center;
+
+            font-size: 25px;
+
+        }
+
+ 
+
+        footer{
+
+            background-color: #176B87;
+
+            color: white;
+
+            padding: 20px;
+
+            text-align: center;
+
+        }
+
+ 
+
+        h1 {
+
+            margin: 0;
+
+        }
+
+ 
+
+        .tagline {
+
+            font-size: 20px;
+
+            margin-top: 5px;
+
+        }
+
+ 
+
+        .search-container {
+
+            text-align: center;
+
+            margin-top: 30px;
+
+        }
+
+ 
+
+        input[type="text"] {
+
+            padding: 10px;
+
+            width: 300px;
+
+            border: solid;
+
+            border-radius: 5px;
+
+            font-size: 16px;
+
+            border-color: black;
+
+        }
+
+ 
+
+        input[type="submit"] {
+
+            background-color: #176B87;
+
+            color: white;
+
+            padding: 10px 20px;
+
+            border: none;
+
+            border-radius: 5px;
+
+            cursor: pointer;
+
+            font-size: 16px;
+
+        }
+
+
+        #drug-info {
+
+            margin: 20px;
+
+            padding: 20px;
+
+            background-color: white;
+
+            border-radius: 5px;
+
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+            display: none;
+
+        }
+
+ 
+
+
+        #about-us {
+
+
+            color: black;
+
+            padding: 20px;
+
+            text-align: center;
+
+            margin-top: 30px;
+
+            font-size: 20px;
+
+        }
+
+ 
+
+        footer {
+
+            margin-top: 30px;
+
+        }
